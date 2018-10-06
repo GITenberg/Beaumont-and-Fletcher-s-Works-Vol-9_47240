@@ -41,6 +41,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 tableOfContents: The Sea-Voyage -- Wit At Several Weapons -- The Fair Maid of the
   Inn -- Cupid's Revenge -- The Two Noble Kinsmen
 title: Beaumont and Fletcher's Works, Vol. 9
